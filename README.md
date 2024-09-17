@@ -10,7 +10,7 @@
 
 
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Sharma51](https://github.com/sharma151/saurav_portfolio_website). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Sharma151](https://github.com/sharma151/saurav_portfolio_website). Thanks!
 
 ## Built With
 
